@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/robot">
+        <file>RoboPic.jpg</file>
+    </qresource>
+</RCC>
