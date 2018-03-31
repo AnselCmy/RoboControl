@@ -18,10 +18,7 @@ SOURCES += main.cpp\
     Connection.cpp \
     controller.cpp \
     PIDController.cpp \
-    MsgParse.cpp \
-    math/RotationMatrix.cpp \
-    math/RotationMatrix.cpp \
-    math/MVTools.cpp
+    MsgParse.cpp
 
 HEADERS  += mainwindow.h \
     controller.h \
@@ -29,16 +26,7 @@ HEADERS  += mainwindow.h \
     ACT.h \
     MsgParse.h \
     PIDController.h \
-    Vector3.h \
-    math/Pose3D.h \
-    math/Matrix2x2.h \
-    math/Matrix3x3.h \
-    math/MVTools.h \
-    math/Range.h \
-    math/RobotDimensions.h \
-    math/RotationMatrix.h \
-    math/Vector2.h \
-    math/Vector3.h
+    Vector3.h
 
 FORMS    += mainwindow.ui
 
